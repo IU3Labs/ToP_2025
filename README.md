@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# "Технологии программирования" 2025 г.
-Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
-=======
 # Технология программирования
 # Год: 2025
 
@@ -17,4 +13,3 @@ email: akhmeevma@student.bmstu.ru
 
 1. https://github.com/AkhmeevMA/HW/tree/main
 2. https://github.com/AkhmeevMA/HoMM-Lab1
->>>>>>> origin/tmp
