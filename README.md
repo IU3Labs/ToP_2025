@@ -18,4 +18,4 @@ email: alovegadmitrij@gmail.com
 1. https://github.com/justDima1/Task2.git
 2. https://github.com/justDima1/Lab1.git
 
->>>>>>> origin/tmp
+
