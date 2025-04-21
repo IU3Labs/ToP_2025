@@ -1,17 +1,16 @@
-
 # Технология программирования
 # Год: 2025
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Андропов Кирилл Глебович
 
-GROUP: IU3-xx
+GROUP: IU3-43B
 
-email: email
+email: andropov2005@inbox.ru
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/k21ryusha/homework1
+2. https://github.com/k21ryusha/homework
 
