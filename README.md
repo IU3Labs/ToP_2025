@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Султанов Айнур Салаватович
 
-GROUP: IU3-xx
+GROUP: IU3-41Б
 
-email: email
+email: sultanovainur05@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. [Ссылка на репозиторий из "Задания 2" ](https://github.com/yorickyeng/ToP_2025_Task)
+2. [Ссылка на репозиторий из "Задания 3"](https://github.com/yorickyeng/the-witcher-iu3-top-2025-task)
