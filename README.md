@@ -13,5 +13,5 @@ email: email
 
 ## Ссылки на репозитории
 
-1. [Ссылка на репозиторий из "Задания 2"](https://github.com/notsokilla/ToP_2025_SWAG/tree/mainorphan/img-task-2)
+1. [Ссылка на репозиторий из "Задания 2"](https://github.com/notsokilla/ToP_2025_SWAG/tree/mainorphan/)
 2. [Ссылка на репозиторий из "Задания 3"](https://github.com/notsokilla/ToP_2025_Gama/tree/master)
