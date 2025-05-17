@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
-=======
 # Технология программирования
 # Год: 2025
 
@@ -17,4 +15,3 @@ email: shishkina.anastasia05@yandex.ru
 
 1. https://github.com/anastasshish/task2
 2. https://github.com/anastasshish/task3
->>>>>>> origin/tmp
