@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
-=======
 # Технология программирования
 # Год: 2025
 
@@ -15,6 +13,5 @@ email: email
 
 ## Ссылки на репозитории
 
-1. [Ссылка на репозиторий из "Задания 2"](https://github.com/notsokilla/ToP_2025_SWAG/tree/mainorphan/img-task-2)
-2. [Ссылка на репозиторий из "Задания 3"](https://github.com/notsokilla/ToP_2025_SWAG/tree/mainorphan/img-task-3)
->>>>>>> origin/tmp
+1. [Ссылка на репозиторий из "Задания 2"](https://github.com/notsokilla/ToP_2025_SWAG/tree/mainorphan)
+2. [Ссылка на репозиторий из "Задания 3"](https://github.com/notsokilla/ToP_2025_Gama/tree/master)
