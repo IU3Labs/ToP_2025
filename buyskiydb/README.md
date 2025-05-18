@@ -1,0 +1,15 @@
+# Технология программирования
+# Год: 2025
+
+## Данные студента:
+
+FIO: Буйский Дмитрий Борисович
+
+GROUP: IU3-42B
+
+email: d.buyskiy@gmail.com
+
+## Ссылки на репозитории
+
+1. https://github.com/DIMA383838/dz.git
+2. https://github.com/DIMA383838/game-lab-1.git
