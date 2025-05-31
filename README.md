@@ -1,4 +1,3 @@
-
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
 
@@ -18,5 +17,3 @@ email: alovegadmitrij@gmail.com
 
 1. https://github.com/justDima1/Task2.git
 2. https://github.com/justDima1/Lab1.git
-
-   
