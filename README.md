@@ -3,11 +3,11 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Байков Ринат Радикович
 
-GROUP: IU3-xx
+GROUP: IU3-42Б
 
-email: email
+email: ta4er6400@gmail.com
 
 ## Ссылки на репозитории
 
