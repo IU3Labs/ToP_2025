@@ -6,4 +6,4 @@
 Email: nastyakiosaaa@yandex.ru  
 
 Задание 2: https://github.com/kiossnsnxn/first-repo 
-Задание 3: https://github.com/kiossnsnxn/Lab1-4 (или другая ссылка, если разные)
+Задание 3: https://github.com/kiossnsnxn/Lab1-4
