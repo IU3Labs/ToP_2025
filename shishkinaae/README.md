@@ -1,18 +1,17 @@
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
-
 # Технология программирования
 # Год: 2025
 
 ## Данные студента:
 
-FIO: Шиловская Анастасия Сергеевна
+FIO: Шишкина Анастасия Эдуардовна
 
-GROUP: IU3-42B
+GROUP: IU3-41Б
 
-email: nastyshilovskaya@gmail.com
+email: shishkina.anastasia05@yandex.ru
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2" https://github.com/shloov/HW_task2
-2. Ссылка на репозиторий из "Задания 3" https://github.com/shloov/HW_task3
+1. https://github.com/anastasshish/task2
+2. https://github.com/anastasshish/task3

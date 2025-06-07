@@ -6,13 +6,14 @@
 
 ## Данные студента:
 
-FIO: Шиловская Анастасия Сергеевна
+FIO: Шуршиков Дмитрий Сергеевич
 
-GROUP: IU3-42B
+GROUP: IU3-41Б
 
-email: nastyshilovskaya@gmail.com
+email: [dimadima211025@gmail.com](mailto:dimadima211025@gmail.com)
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2" https://github.com/shloov/HW_task2
-2. Ссылка на репозиторий из "Задания 3" https://github.com/shloov/HW_task3
+1. [Ссылка на репозиторий из "Задания 2"](https://github.com/superdima3000/swag)
+2. [Ссылка на репозиторий из "Задания 3"](https://github.com/superdima3000/lean)
+

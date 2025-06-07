@@ -1,3 +1,4 @@
+
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
 
@@ -6,13 +7,13 @@
 
 ## Данные студента:
 
-FIO: Шиловская Анастасия Сергеевна
+FIO: Буйский Дмитрий Борисович
 
-GROUP: IU3-42B
+GROUP: IU3-42Б
 
-email: nastyshilovskaya@gmail.com
+email: d.buyskiy@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2" https://github.com/shloov/HW_task2
-2. Ссылка на репозиторий из "Задания 3" https://github.com/shloov/HW_task3
+1. https://github.com/DIMA383838/dz.git
+2. https://github.com/DIMA383838/game-lab-1.git
