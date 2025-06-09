@@ -1,7 +1,9 @@
-Студент: Кузнецов Алексей Владимирович
-
+Данные студента:
+ФИО: Кузнецов Алексей Владимирович
 Группа: ИУ3-41Б
-
 Почта: alexey28032004@gmail.com
-
-Ссылка на репозиторий с заданиями 2,3 https://github.com/AlexeyKuznets0v/DZ/tree/new1
+Ссылки на репозитории
+1. Ссылка на репозиторий из
+Задания 2: https://github.com/AlexeyKuznets0v/DZ/tree/new1
+1. Ссылка на репозиторий из
+Задания 3: https://github.com/AlexeyKuznets0v/DZ/tree/master
