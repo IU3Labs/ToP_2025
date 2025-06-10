@@ -5,5 +5,5 @@
 ### Группа: ИУ3-42Б
 ### Email: nastyakiosaaa@yandex.ru
 
-Задание 2: https://github.com/nastyakiosaaa/first-repo
-Задание 3: https://github.com/nastyakiosaaa/Lab1-4
+Задание 2: https://github.com/kiossnsnxn/first-repo
+Задание 3: https://github.com/kiossnsnxn/Lab1-4
