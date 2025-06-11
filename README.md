@@ -9,4 +9,3 @@ URL: https://github.com/GruzinskayaSamsa/HomeTask
 ​
 ## Task 3
 URL: https://github.com/GruzinskayaSamsa/Heroes_of_IU3
-​
