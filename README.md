@@ -3,15 +3,15 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Щетинина Дарья Сергеевна
 
-GROUP: IU3-xx
+GROUP: ИУ3-42б
 
-email: email
+email: darasetinina567@gmail.com
 
 ## Ссылки на репозитории
 
 
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. https://github.com/DashaShchetinina/git-lab
+2. https://github.com/DashaShchetinina/play
