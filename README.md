@@ -9,11 +9,9 @@
 - ФИО: Барабанов Богдан Евгеньевич
 - Группа: ИУ3‑43б
 - E‑mail: bogdanb05@icloud.com
-- Репозитории:
-- https://github.com/bogdannnnnnnn/top-hw-repo
-- https://github.com/bogdannnnnnnn/lab1
-## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+## Ссылки на репозитории
+- https://github.com/bogdannnnnnnn/top-hw-repo
+- https://github.com/bogdannnnnnnn/Heroes-of-Might-and-Magic/
+
 >>>>>>> origin/tmp
