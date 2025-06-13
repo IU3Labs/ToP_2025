@@ -1,17 +1,20 @@
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
+=======
 # Технология программирования
 # Год: 2025
 
 ## Данные студента:
 
-FIO: Шишкина Анастасия Эдуардовна
+FIO: Рамазанов Мухамед Хаирбегович 
 
-GROUP: IU3-41Б
+GROUP: IU3-43B
 
-email: shishkina.anastasia05@yandex.ru
+email: muahamed2478@gmail.com
 
 ## Ссылки на репозитории
 
-1. https://github.com/anastasshish/task2
-2. https://github.com/anastasshish/task3
+
+
+1. Ссылка на репозиторий из "Задания 2" - https://github.com/Muhamed2012/-my-first-repo.git
+2. Ссылка на репозиторий из "Задания 3" - https://github.com/Muhamed2012/laba.git
