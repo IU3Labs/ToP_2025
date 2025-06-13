@@ -16,7 +16,6 @@ email: dmitrijmanutov5779@gmail.com
 ## Ссылки на репозитории
 
 
-
 1. Ссылка на репозиторий из "Задания 2" - https://github.com/ruffold03/1task.git
 2. Ссылка на репозиторий из "Задания 3" - https://github.com/ruffold03/dz_iu3.git
 origin/tmp
