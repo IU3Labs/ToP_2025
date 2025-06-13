@@ -1,0 +1,18 @@
+
+# Технология программирования
+# Год: 2025
+
+## Данные студента:
+
+FIO: Щекина Марфа Максимовна
+
+GROUP: IU3-43Б
+email: marfa.schoekina@gmail.com
+
+## Ссылки на репозитории
+
+
+
+1. https://github.com/id87241/okak8
+2. https://github.com/id87241/game
+
