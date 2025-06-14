@@ -3,15 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Черников Марк Антонович
 
-GROUP: IU3-xx
+GROUP: ИУ3-41Б
 
-email: email
+EMAIL: chernikovma@student.bmstu.ru
 
 ## Ссылки на репозитории
 
-
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3
-
+1. Ссылка на репозиторий из "Задания 2" - https://github.com/bitold/task_dz_tp
+2. Ссылка на репозиторий из "Задания 3" - https://github.com/bitold/HoIU3-game
