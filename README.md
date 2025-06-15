@@ -1,4 +1,3 @@
-
 # "Технологии программирования" 2025 г.
 Репозиторий для домашнего задания по курсу "Технологии программирования" 2025 г.
 
@@ -19,4 +18,3 @@ email: bogdanb05@icloud.com
 
 - https://github.com/bogdannnnnnnn/DZ_git_Barabanov
 - https://github.com/bogdannnnnnnn/Heroes-of-Might-and-Magic/
-
