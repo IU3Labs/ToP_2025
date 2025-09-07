@@ -13,4 +13,3 @@ email: kiralexr375@gmail.com
 1. Ссылка на репозиторий из "Задания 2" - https://github.com/kiryashaBN/DZ1
 2. Ссылка на репозиторий из "Задания 3" - https://github.com/kiryashaBN/GameLAB1
 
-
