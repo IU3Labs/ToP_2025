@@ -5,17 +5,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Варенов ГА
 
-GROUP: IU3-xx
+GROUP: IU3-41
 
-email: email
+email: vzlomsasat@mail.ru
 
 ## Ссылки на репозитории
 
 - [Задание 2](https://github.com/notsokilla/ToP_1)
 - [Задание 3](https://github.com/notsokilla/TP_1)
-
-
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
